@@ -1,73 +1,64 @@
-# Welcome to your StyleSense project
+# Style Muse 👗✨  
+### AI-Powered Fashion Assistant
 
-## Project info
+Style Muse is an AI-powered fashion assistant that helps users analyze outfits, receive styling recommendations, and discover fashion products based on uploaded images and personal preferences.
 
-**URL**: https://StyleSense.dev/projects/REPLACE_WITH_PROJECT_ID
+The project combines **AI, fashion data, and modern web technologies** to create an interactive styling experience.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
 
-**Use StyleSense**
+https://github.com/user-attachments/assets/7c05fb55-5df9-43d1-9af3-4a8efe5f5736
 
-Simply visit the [StyleSense Project](https://StyleSense.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
 
-Changes made via StyleSense will be committed automatically to this repo.
 
-**Use your preferred IDE**
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in StyleSense.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-Follow these steps:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 👥 Team Blue
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+This project was built by **Team Blue**.
 
-# Step 3: Install the necessary dependencies.
-npm i
+**Team Members**
+- Zubair
+- Vijay Lokesh
+- Thrishula
+- Pani Neela
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+We developed this project as a student initiative to explore how **AI can assist users in making smarter fashion choices.**
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🚀 Features
 
-**Use GitHub Codespaces**
+- Upload outfit images  
+- AI-based outfit analysis  
+- Smart styling recommendations  
+- Occasion-based outfit suggestions  
+- Product discovery based on user style  
+- Clean modern fashion-focused UI  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+## 🛠️ Tech Stack
 
-This project is built with:
-
-- Vite
-- TypeScript
+### Frontend
 - React
-- shadcn-ui
+- TypeScript
+- Vite
 - Tailwind CSS
+- shadcn/ui
 
-## How can I deploy this project?
+### Backend / Integrations
+- AI APIs
+- Fashion product APIs
 
-Simply open [StyleSense](https://StyleSense.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my StyleSense project?
+## 💻 Clone the Repository
 
-Yes, you can!
+Run the following command in your terminal:
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.StyleSense.dev/features/custom-domain#custom-domain)
+```bash
+git clone https://github.com/<your-username>/<repo-name>.git
